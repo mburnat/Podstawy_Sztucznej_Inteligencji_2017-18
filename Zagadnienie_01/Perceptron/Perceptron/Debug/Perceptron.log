@@ -1,0 +1,8 @@
+﻿  Neuron.cpp
+  main.cpp
+d:\studia\informatyka stosowana\rok 3\semestr v\psi\projekty\projekt 1\perceptron\perceptron\main.cpp(20): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\studia\informatyka stosowana\rok 3\semestr v\psi\projekty\projekt 1\perceptron\perceptron\main.cpp(126): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\studia\informatyka stosowana\rok 3\semestr v\psi\projekty\projekt 1\perceptron\perceptron\main.cpp(127): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Perceptron.vcxproj -> D:\Studia\Informatyka Stosowana\Rok 3\Semestr V\PSI\projekty\Projekt 1\Perceptron\Debug\Perceptron.exe
+  Perceptron.vcxproj -> D:\Studia\Informatyka Stosowana\Rok 3\Semestr V\PSI\projekty\Projekt 1\Perceptron\Debug\Perceptron.pdb (Partial PDB)
